@@ -6,8 +6,8 @@
 // @author       LastPlayer
 // @match        https://www.technopat.net/sosyal/konu/*
 // @icon         https://www.google.com/s2/favicons?domain=technopat.net
-// @updateURL    https://gist.github.com/LastPlayerTR/3de7331de1c18de7c0a8364aa34b0fb7/raw/6448250e06fe2d7c6605eb0c7ec945cb24c877b3/technopatcekilis.user.js
-// @downloadURL  https://gist.github.com/LastPlayerTR/3de7331de1c18de7c0a8364aa34b0fb7/raw/6448250e06fe2d7c6605eb0c7ec945cb24c877b3/technopatcekilis.user.js
+// @updateURL    https://github.com/LastPlayerTR/technopatcekilis/raw/main/technopatcekilis.user.js
+// @downloadURL  https://github.com/LastPlayerTR/technopatcekilis/raw/main/technopatcekilis.user.js
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @require https://cdn.jsdelivr.net/npm/sweetalert2@11
